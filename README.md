@@ -10,15 +10,19 @@
 ### Work Experience
 
 #### Software Developer Internship
-TechnoCIT Software Solutions
+##### TechnoCIT Software Solutions
 Jun 2024 - Jul 2024 
+
+
 Dubai, United Arab Emirates
 - Software Development Intern at Technocit, developed a chatbot using PyTorch and implemented the frontend. Additionally, created a machine learning model for voice identification.
 
 
 #### Machine Learning Engineer Intern
-Integra Technologies
+##### Integra Technologies
 Aug 2024 - Sep 2024 
+
+
 Dubai, United Arab Emirates 
 - Using Amazon Web Services tools(AWS Sagemaker, AWS S3), Python, Jupyter Notebook to train and finetune models.
 - Collaborated with a team to develop sector specific specialized small language models based in UAE
