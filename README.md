@@ -24,9 +24,9 @@ Dubai, United Arab Emirates
 
 
 ### Projects
-House Price Prediction
+#### House Price Prediction
 ![image](https://github.com/user-attachments/assets/401459c3-9dd4-48e7-a3a5-417263e61691)
 This project combines a machine learning model with a simple web app interface. It allows users to input details of a property, such as the number of bedrooms, bathrooms, square footage, and location, and provides a predicted house price using the pre-trained model.
 
-UAE Law Model
+#### UAE Law Model
 This repository contains a machine learning model built for legal text analysis, specifically focusing on UAE laws. The model is designed to understand and process legal documents, and can be used for tasks such as legal document classification, question-answering, and information retrieval. The project includes fine-tuning a language model to suit the legal domain using UAE-specific law datasets.
