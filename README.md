@@ -8,14 +8,14 @@ Gems Millennium School Sharjah, HighSchool
 2016-2023
 
 ### Work Experience 
-Software Developer Internship
+#### Software Developer Internship
 TechnoCIT Software Solutions
 Jun 2024 - Jul 2024 
 Dubai, United Arab Emirates
 -Software Development Intern at Technocit, developed a chatbot using PyTorch and implemented the frontend. Additionally, created a machine learning model for voice identification.
 
 
-Machine Learning Engineer Intern
+##### Machine Learning Engineer Intern
 Integra Technologies · Internship
 Aug 2024 - Sep 2024 
 Dubai, United Arab Emirates 
