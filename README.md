@@ -25,4 +25,4 @@ Dubai, United Arab Emirates
 
 ### Projects
 House Price Prediction
-![Alt text](https://miro.medium.com/v2/resize:fit:640/1*D6s2K1y7kjE14swcgITB1w.png)
+![image](https://github.com/user-attachments/assets/401459c3-9dd4-48e7-a3a5-417263e61691)
