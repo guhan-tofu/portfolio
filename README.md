@@ -26,7 +26,7 @@ Aug 2024 - Sep 2024
 Dubai, United Arab Emirates 
 - Using Amazon Web Services tools(AWS Sagemaker, AWS S3), Python, Jupyter Notebook to train and finetune models.
 - Collaborated with a team to develop sector specific specialized small language models based in UAE
-
+![image](https://github.com/guhan-tofu/myimage/blob/main/IMG_5769.heic)
 
 ### Projects
 #### [House Price Prediction](https://github.com/guhan-tofu/House-price-prediction-2)
