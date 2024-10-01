@@ -27,7 +27,7 @@ Dubai, United Arab Emirates
 - Using Amazon Web Services tools(AWS Sagemaker, AWS S3), Python, Jupyter Notebook to train and finetune models.
 - Collaborated with a team to develop sector specific specialized small language models based in UAE
 
-
+![image](/Users/guhantofu/Downloads/IMG_5769.heic)
 ### Projects
 #### [House Price Prediction](https://github.com/guhan-tofu/House-price-prediction-2)
 ![image](https://github.com/user-attachments/assets/401459c3-9dd4-48e7-a3a5-417263e61691) 
