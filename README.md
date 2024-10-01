@@ -29,7 +29,7 @@ Dubai, United Arab Emirates
 
 
 ### Projects
-#### House Price Prediction
+#### House Price Prediction [GitHub Repository](https://github.com/guhan-tofu/UAE_law_model)
 ![image](https://github.com/user-attachments/assets/401459c3-9dd4-48e7-a3a5-417263e61691)
 This project combines a machine learning model with a simple web app interface. It allows users to input details of a property, such as the number of bedrooms, bathrooms, square footage, and location, and provides a predicted house price using the pre-trained model.
 
