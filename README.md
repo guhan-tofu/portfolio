@@ -47,6 +47,7 @@ This project is an application of the classic Battleship game. It allows a playe
 This project implements a chatbot using Pytorch Neural Network. Includes data transformation using concepts like tokenization, stemming, and bag-of-words as well as data schema. The model is trained on transformed data and later preprocessed for inference.
 
 #### [NBA Prediction](https://github.com/guhan-tofu/NBA-Prediction)
+![image](https://raw.githubusercontent.com/guhan-tofu/portfolio/refs/heads/main/Logo-NBA.png)
 This project focuses on predicting the outcomes of NBA matches using historical game data. This data science project involves comprehensive data preprocessing, feature engineering, and machine learning to develop a model capable of forecasting match results. The project utilizes a RidgeClassifier model and sequential feature selection for optimal performance.
 
 #### [Cycling Portal](https://github.com/yousufaahmed/CyclingProject)
