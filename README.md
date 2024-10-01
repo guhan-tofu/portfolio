@@ -39,3 +39,5 @@ This repository contains a machine learning model built for legal text analysis,
 
 #### [Sentiment Analysis](https://github.com/guhan-tofu/Sentiment-Analysis-Model)
 
+This repository contains a Jupyter notebook that demonstrates how to build and fine-tune a Sentiment Analysis model using BERT (Bidirectional Encoder Representations from Transformers). The notebook walks through the entire process, including data preparation, model setup, training, and evaluation.
+
