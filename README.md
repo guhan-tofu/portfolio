@@ -35,18 +35,22 @@ This repository contains a machine learning model built for legal text analysis,
 This repository contains a Jupyter notebook that demonstrates how to build and fine-tune a Sentiment Analysis model using BERT (Bidirectional Encoder Representations from Transformers). The notebook walks through the entire process, including data preparation, model setup, training, and evaluation.
 
 #### [SpaceShip Prediction](https://github.com/guhan-tofu/SpaceShip)
+![image](https://github.com/user-attachments/assets/64bf14b7-b908-4de8-ab0a-1bb9699be13c)
 This project aims to predict the survival of passengers aboard the Titanic SpaceShip using machine learning algorithms. The SpaceShip dataset contains information about passengers, such as age, gender, cabin, and home planet, and whether they arrived at their destination or not.
 
 #### [BattleShip Game](https://github.com/guhan-tofu/BattleShip)
+![image](https://github.com/user-attachments/assets/e58893a8-6ab7-4098-87ad-182000e2b3bf)
 This project is an application of the classic Battleship game. It allows a player to place their battleships on a grid and take turns attacking the AI opponent's grid to sink their ships until one of the players has sunk all the ships.
 
 #### [Pytorch Chatbot](https://github.com/guhan-tofu/ChatBot)
-This project implements a chatbot using pytorch neural network. Includes data transformation using concepts like tokenization, stemming, and bag-of-words as well as data schema. The model is trained on transformed data and later preprocessed for inference.
+![image](https://github.com/user-attachments/assets/b3beffa1-76b1-41e5-8369-4c29faceeb17)
+This project implements a chatbot using Pytorch Neural Network. Includes data transformation using concepts like tokenization, stemming, and bag-of-words as well as data schema. The model is trained on transformed data and later preprocessed for inference.
 
 #### [NBA Prediction](https://github.com/guhan-tofu/NBA-Prediction)
 This project focuses on predicting the outcomes of NBA matches using historical game data. This data science project involves comprehensive data preprocessing, feature engineering, and machine learning to develop a model capable of forecasting match results. The project utilizes a RidgeClassifier model and sequential feature selection for optimal performance.
 
 #### [Cycling Portal](https://github.com/yousufaahmed/CyclingProject)
+![image](https://github.com/user-attachments/assets/223ef1af-c725-42d1-a8de-bb6c219b1e11)
 This project deals with the backend Java code of a cycling portal for pseudo client. It demonstrates key OOP principles like encapsulation, inheritance, and polymorphism through real-world use cases in cycling data management. 
 
 
