@@ -1,34 +1,27 @@
 # Data Science & Machine Learning
 
-### Education
-#### University of Exeter, BSc Computer Science
-- 2023-2027
+## Education
+- University of Exeter, BSc Computer Science | 2023-2027
+- Gems Millennium School Sharjah | 2016-2023
 
-#### Gems Millennium School Sharjah, HighSchool
-- 2016-2023
+## Work Experience
 
-### Work Experience
-
-#### Software Developer Internship
-##### TechnoCIT Software Solutions
-Jun 2024 - Jul 2024 
-
-
-Dubai, United Arab Emirates
-- Software Development Intern at Technocit, developed a chatbot using PyTorch and implemented the frontend. Additionally, created a machine learning model for voice identification.
-
-
-#### Machine Learning Engineer Intern
-##### Integra Technologies
-Aug 2024 - Sep 2024 
-
-
-Dubai, United Arab Emirates 
+**Machine Learning Engineer Intern @ Integra Technologies (_Aug 2024 - Sep 2024_)**
 - Using Amazon Web Services tools(AWS Sagemaker, AWS S3), Python, Jupyter Notebook to train and finetune models.
-- Collaborated with a team to develop sector specific specialized small language models based in UAE
-![image](https://github.com/guhan-tofu/myimage/blob/main/IMG_5769.heic)
+- Conducted extensive data scraping and applied advanced data cleaning techniques for pre-training dataset preparation.
+- Collaborated with a team to develop sector specific specialized small language models based in UAE.
 
-### Projects
+ 
+**Software Developer Internship @ TechnoCIT Software Solutions (_Jun 2024 - Jul 2024_)**
+- Developed Python scripts to build a PyTorch-based deep learning model for an AI chatbot.
+- Designed and implemented a standalone frontend for the chatbot using HTML, CSS, and JavaScript.
+- Built and trained a TensorFlow model for voice identification using web-scraped audio data.
+
+
+
+
+
+## Projects
 #### [House Price Prediction](https://github.com/guhan-tofu/House-price-prediction-2)
 ![image](https://github.com/user-attachments/assets/401459c3-9dd4-48e7-a3a5-417263e61691) 
 This project combines a machine learning model with a simple web app interface. It allows users to input details of a property, such as the number of bedrooms, bathrooms, square footage, and location, and provides a predicted house price using the pre-trained model.
