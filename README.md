@@ -1,4 +1,4 @@
-# Data Science & Machine Learning
+# Computer Science Student
 
 ## Education
 - University of Exeter, BSc Computer Science | 2023-2027
